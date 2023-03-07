@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "name": "svg-logo-maker",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib",
+    "test": "tests"
+  },
+  "devDependencies": {
+    "jest": "^29.4.2"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NewguyenGitHub/SVG-LOGO-MAKER.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NewguyenGitHub/SVG-LOGO-MAKER/issues"
+  },
+  "homepage": "https://github.com/NewguyenGitHub/SVG-LOGO-MAKER#readme"
+}
