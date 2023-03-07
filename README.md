@@ -44,7 +44,7 @@ npm run test
 
 This is a node.js file that creates a SVG file of a logo for the user based on the user input.
 
-[SVG-LOGO-Maker-Walk-Through]()
+[SVG-LOGO-Maker-Walk-Through](https://user-images.githubusercontent.com/118239578/223294370-ad344714-4ca6-4d0a-913b-98d18067e2e8.mp4)
 
 ![SVG-LOGO-Maker-Terminal](assets/demo/SVG-LOGO-Maker-Terminal.JPG)
 
